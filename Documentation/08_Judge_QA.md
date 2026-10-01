@@ -1,4 +1,4 @@
-# Possible Judge Questions and Answers
+Possible Judge Questions and Answers
 
 ## Mechanical Design
 
@@ -174,4 +174,4 @@ The answer should be based on the actual problems found during physical testing 
 
 All answers must describe the real vehicle, real software and real development process.
 
-We should not claim measurements, test results or software features that have not actually been verified.
+We should not claim measurements, test results or software features that have not actually been verified
