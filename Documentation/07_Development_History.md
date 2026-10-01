@@ -1,4 +1,4 @@
-# Development History
+velopment History
 
 ## 1. Engineering Process
 
@@ -152,4 +152,4 @@ The team aims to improve the vehicle through practical engineering decisions rat
 
 When a design is changed, the reason for the change should be documented.
 
-Future versions of the vehicle and software will be recorded in this development history as the project progresses.
+Future versions of the vehicle and software will be recorded in this development history as the project progresses
