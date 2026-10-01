@@ -1,3 +1,4 @@
+
 # Open Challenge Strategy
 
 ## 1. Challenge Overview
